@@ -34,4 +34,5 @@ A responsive web application that displays Star Wars characters using the SWAPI 
 - Clone the Repository 
 - Install dependencies
 - Start the development server
+- npm run dev -> Starts the development server 
 
