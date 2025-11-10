@@ -27,8 +27,11 @@ A responsive web application that displays Star Wars characters using the SWAPI 
 - **Tailwind CSS** for styling
 - **HTML5 & CSS3**
 - **JavaScript (ES6+)**
-- **React Testing Library** for testing
 - **SWAPI** - Star Wars API
 - **Picsum Photos** for random character images
 
-#
+# How to Run 
+- Clone the Repository 
+- Install dependencies
+- Start the development server
+
